@@ -17,5 +17,10 @@ Evaluating Random Oversampling
 XAI using SHAP for Support Vector Classifier on 100 predictions
 ![Screenshot 2025-03-20 190813](https://github.com/user-attachments/assets/0c9d4007-e6d4-4dbf-bffe-38b6168b5a29)
 
-KAN model (highest performance) plotted
+KAN model (highest performance) plotted 
+Parameters -
+width=[5, 2]
+grid=4
+k=6
+
 ![Screenshot 2025-03-20 192053](https://github.com/user-attachments/assets/adbefafb-54b3-4b06-bebb-5ce575d9ccec)
