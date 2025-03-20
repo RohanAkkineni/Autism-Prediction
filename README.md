@@ -5,7 +5,7 @@ Use various machine learning models and assess their performance using KAN. Enha
 Resources - https://www.kaggle.com/code/seyidcemkarakas/kan-tabular-data-binary-classification/notebook
 https://github.com/team-daniel/KAN/blob/master/KAN_classification.ipynb
 
-Comparison of all models
+Exhaustive comparison of all models
 ![Screenshot 2025-03-20 192110](https://github.com/user-attachments/assets/2f1b5c2b-175d-4419-85eb-9968faf91bcc)
 
 Project Report Comparison
